@@ -1,4 +1,4 @@
-def do_fizzbuzz():
+def do_fizzbuzz(num:int):
     """
     fizzbuzz 기능을 수행합니다. 
     정해진 숫자에 대해,
@@ -18,4 +18,4 @@ def do_fizzbuzz():
             print(i)
 
 if __name__=='__main__':
-    do_fizzbuzz()
+    do_fizzbuzz(16)
