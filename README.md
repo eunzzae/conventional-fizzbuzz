@@ -6,6 +6,7 @@
 
 - python==3.11.0
 - fastapi
+- jupyter
 
 ## How to start
 
